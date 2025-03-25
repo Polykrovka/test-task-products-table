@@ -13,6 +13,7 @@ The table should support:
 * Ordering by roi, profit or sales.
 
 
+GitHub Pages: https://polykrovka.github.io/test-task-products-table/
 
 ## Getting Started
 
